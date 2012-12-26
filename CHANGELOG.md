@@ -1,3 +1,48 @@
+## 0.7.1 (2012-11-24)
+ - Update Peruvian Spanish (es-PE) translation
+ - Fix pluralization rules for OneTwoOther
+ - Fix pluralization rules for Hungarian (hu)
+ - Update Japanese (ja) translation
+ - Fix and complete translations of Macedonian (mk), Cyrillic Serbian (sr) and Serbo-Croatian (scr)
+
+## 0.7.0 (2012-10-23)
+ - Remove Swiss German (gsw-CH) as a duplicate of de-CH
+ - Remove en-US
+ - Remove region code from bn-IN, gl-ES, pt-PT and sv-SE
+ - Move iso-639-2 locales into their own directory
+ - Add pluralization rule for Upper Sorbian
+ - Fix grammar mistakes on Bulgarian (bg) translation
+ - Add Latin American Spanish (es-419) translation
+
+## 0.6.6 (2012-09-07)
+ - added Uzbek (uz) translation
+ - added Swiss Italian (it-CH) translation
+ - fixed Swiss German (de-CH) translation
+ - added Polish (pl) transliteration
+ - fixed Greek (el) translation
+ - added Nepali (ne) translation
+ - fixed Argentina Spanish (es-AR) translation
+
+## 0.6.5 (2012-07-02)
+ - fixed Icelandic translation
+ - fixed Portuguese translation
+ - completed Vietnamese translation and transliteration
+ - added Canadian English
+ - fixed Tagalog delimiter and separator
+ - fixed Bosinian translation
+ - fixed French translation
+ - added Engish (en) translation
+ - added Spanish (Venizuela) translation
+ - complted Turkish translation
+
+## 0.6.4 (2012-05-17)
+- fixed Croatian translation and pluralization
+- added Wolof translation
+- fixed Hebrew pluralization
+- added Tagalog translation
+- fixed Bosinan pluralization
+- fixed Lativian pluralization
+
 ## 0.6.3 (2012-04-15)
 
 - fixed English (India) translations
